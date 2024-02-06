@@ -5,10 +5,6 @@
 + [Getting Started](#getting_started)
 + [Deployment](#deployment)
 + [Limitations](#limitations)
-+ [Future Scope](#future_scope)
-+ [Contributing](#contributing)
-+ [Authors](#authors)
-+ [Acknowledgements](#acknowledgements)
 
 ## About <a name="description"></a>
 + In today’s world, how do you know if you are buying a genuine product?
